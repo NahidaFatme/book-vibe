@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 const Banner = () => {
     return (
-        <div>
+        <div className="mt-12">
            <div className="hero h-[550px] bg-base-200 px-32 py-20 rounded-2xl">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <img src="https://i.ibb.co/Ld3628t/1.png" className="w-[400px] h-[394px]" />

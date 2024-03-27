@@ -1,0 +1,82 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/sWPskxR/2.png",
+      "review": "To Kill a Mockingbird is a timeless classic that delves into the issues of racial injustice, moral growth, and societal norms in a small Southern town during the 1930s. Harper Lee's masterful storytelling and vivid character development make this novel a must-read for readers of all ages. The protagonist, Scout Finch, narrates the story with innocence and honesty, offering readers a child's perspective on the complexities of adult life. Through the trial of Tom Robinson, a black man falsely accused of raping a white woman, Lee exposes the deep-seated prejudices and systemic racism that plagued American society. The novel's themes of empathy, compassion, and standing up for what is right resonate with readers today as much as they did when the book was first published in 1960.",
+      "totalPages": 281,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classics", "Racial Injustice", "Coming-of-Age"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/C1RBJCx/3.png",
+      "review": "1984 is a dystopian novel that paints a bleak picture of a totalitarian society where individual freedom and privacy are non-existent. George Orwell's prophetic vision of a world dominated by surveillance, propaganda, and thought control remains disturbingly relevant in today's age of digital technology and government intrusion. The story follows Winston Smith, a low-ranking member of the ruling Party, as he rebels against the oppressive regime and attempts to find love and truth in a world of lies and deception. Orwell's exploration of power, ideology, and human nature makes 1984 a thought-provoking and unsettling read that challenges readers to question the nature of reality and the role of government in shaping society.",
+      "totalPages": 328,
+      "rating": 4.8,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political", "Philosophical"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 3,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/PGyvc9F/4.png",
+      "review": "Pride and Prejudice is a romantic novel that explores the themes of love, marriage, and social class in early 19th-century England. Jane Austen's witty dialogue, engaging characters, and astute observations of human nature make this novel a timeless masterpiece. The story revolves around the spirited Elizabeth Bennet and the proud Mr. Darcy, whose initial prejudices and misunderstandings give way to mutual respect and affection. Austen's exploration of the complexities of human relationships and the societal pressures of her time resonates with readers today, making Pride and Prejudice a beloved classic that continues to captivate audiences worldwide.",
+      "totalPages": 432,
+      "rating": 4.7,
+      "category": "Romance",
+      "tags": ["Classic Literature", "Social Commentary", "Love"],
+      "publisher": "T. Egerton",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/Fq90byC/5.png",
+      "review": "The Great Gatsby is a tragic love story set against the backdrop of the Roaring Twenties, a time of wealth, excess, and social upheaval in America. F. Scott Fitzgerald's lyrical prose and vivid imagery capture the glamour and disillusionment of the Jazz Age, making this novel a classic of American literature. The story follows the enigmatic Jay Gatsby and his obsessive quest to win back the love of his life, Daisy Buchanan. Through Gatsby's rise and fall, Fitzgerald explores themes of ambition, identity, and the American Dream, revealing the emptiness and moral decay that lurk beneath the surface of wealth and privilege.",
+      "totalPages": 180,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Modernist", "Tragedy", "American Dream"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/5FCsPDc/6.jpg",
+      "review": "The Catcher in the Rye is a coming-of-age novel that follows the disillusioned teenager Holden Caulfield as he navigates the complexities of adolescence, identity, and societal expectations in post-World War II America. J.D. Salinger's candid portrayal of Holden's inner thoughts and struggles resonates with readers who have ever felt alienated or misunderstood. Through Holden's encounters with various characters and his reflections on life, Salinger explores themes of innocence, alienation, and the search for authenticity. The novel's raw and authentic voice, coupled with its universal themes, has made The Catcher in the Rye a cultural phenomenon and a must-read for generations of readers.",
+      "totalPages": 277,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Coming-of-Age", "Existentialism", "Teen Angst"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/SfgXqnP/7.png",
+      "review": "The Hobbit is a fantasy novel that takes readers on an unforgettable journey through the enchanting world of Middle-earth. J.R.R. Tolkien's imaginative storytelling, richly detailed world-building, and memorable characters make this novel a beloved classic in the realm of fantasy literature. The story follows Bilbo Baggins, a reluctant hobbit who is swept away from his quiet life in the Shire by the wizard Gandalf and a group of dwarves on a quest to reclaim their homeland from the fearsome dragon Smaug. Along the way, Bilbo encounters magical creatures, treacherous foes, and discovers courage and resourcefulness he never knew he possessed. The Hobbit is a timeless tale of adventure, friendship, and the triumph of good over evil that continues to inspire readers of all ages.",
+      "totalPages": 310,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Quest", "Mythical Creatures"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+    }
+  ]
+  
+  
