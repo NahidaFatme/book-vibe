@@ -11,11 +11,13 @@ import Root from './Root.jsx';
 import ListedBooks from './Components/ListedBooks.jsx';
 import PagesRead from './Components/PagesRead.jsx';
 import Details from './Components/Details.jsx';
+import ErrorPage from "./error-page";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement: <ErrorPage />,
     children: [
       {
         path: "/",

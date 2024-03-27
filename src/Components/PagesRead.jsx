@@ -45,7 +45,7 @@ const PagesRead = () => {
         <div className='bg-[#13131308] rounded-xl items-center mt-11 p-8'>
             
             <BarChart
-                width={1000}
+                width={1200}
                 height={500}
                 data={Reads}
                 margin={{
