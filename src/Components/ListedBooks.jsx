@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react";
 import {getReadBooks, getWishlistBooks} from "../utility/SaveLocalstorage";
 import ReadList from './ReadList';
 import WishList from './WishList';
+import PagesRead from './PagesRead';
 
 const ListedBooks = () => {
 
@@ -59,7 +60,7 @@ const ListedBooks = () => {
                 <div className='flex flex-col gap-6 mt-10'>
                 {
                      Reads.map(Read => <ReadList key={Read.bookId} Read={Read}></ReadList>)
-                     
+                    
                 }
                 </div>
                 </TabPanel>
