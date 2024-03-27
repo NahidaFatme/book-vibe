@@ -19,8 +19,12 @@ const saveReadBooks = id => {
         localStorage.setItem('read', JSON.stringify(storedReadBooks));
         toast("Book added to Readlist !!");
     }
-    else if(existWish){
-        toast.error("Book already Wishlist. Cannot add to Readlist !!");
+    else if(existWish && !exist){
+        const updatedWishlist = storedWishlist.filter(bookId => bookId !== id);
+        localStorage.setItem('wishlist', JSON.stringify(updatedWishlist));
+        storedReadBooks.push(id);
+        localStorage.setItem('read', JSON.stringify(storedReadBooks));
+        toast("Book added to Read from Wishlist !!");
     }
     else{
         toast.error("Book already Readlist !!");
