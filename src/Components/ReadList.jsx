@@ -9,14 +9,14 @@ const ReadList = ({Read}) => {
     console.log(Read);
     const {image,bookName, author, yearOfPublishing, tags, totalPages, publisher, category, rating, bookId} = Read;
     return (
-        <div className="flex gap-6 border-gray-200 border-2 p-6 rounded-2xl">
+        <div className="flex flex-col lg:flex-row gap-6 border-gray-200 border-2 p-6 rounded-2xl">
             <div className="w-[230px] h-[230px] bg-[#1313130D] rounded-2xl flex justify-center items-center">
                 <img className="w-[130px] h-[172px] object-cover" src={image} alt="" />
             </div>
             <div className="flex flex-col gap-4 grow">
                 <h2 className="font-bold text-3xl text-black">{bookName}</h2>
                 <p className="text-base font-semibold text-[#3b3b3bcc]">By: {author}</p> 
-                <div className="flex gap-8">
+                <div className="flex flex-col lg:flex-row gap-2 lg:gap-8">
                     <p className="text-base font-bold text-black"> Tag </p>
                     {
                         tags.map(tag => <p className="text-[#23BE0A] text-base font-semibold"># {tag}</p>)
@@ -26,7 +26,7 @@ const ReadList = ({Read}) => {
                     <p className="text-base font-medium text-[#3b3b3bcc]"> Year of Publishing: {yearOfPublishing} </p>
                     </div>
                 </div>
-                <div className="flex gap-6 items-center">
+                <div className="flex flex-col lg:flex-row gap-6 items-start lg:items-center">
                     <div className="flex gap-2 items-center">
                     <BsFillPersonLinesFill />
                     <p className="text-base font-medium text-[#3b3b3bcc]"> Publisher: {publisher}</p>
@@ -37,7 +37,7 @@ const ReadList = ({Read}) => {
                     </div>
                 </div>
                 <hr />
-                <div className="flex gap-3">
+                <div className="flex flex-col lg:flex-row gap-3">
                     <button className="btn rounded-full bg-[#328EFF26] text-base text-[#328EFF] font-medium">Category: {category}</button>
                     <button className="btn rounded-full bg-[#FFAC3326] text-base text-[#FFAC33] font-medium">Rating: {rating}</button>
                     <button className="btn rounded-full bg-[#23BE0A] text-base text-white font-medium"> <Link to={`/Book/${bookId}`}>View Details</Link></button>

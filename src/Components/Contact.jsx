@@ -12,7 +12,7 @@ const Contact = () => {
                 <p className="text-xl">Novel City, NC 12345</p>
                 <p className="text-xl">United States</p>
                 <div className="card-actions grow">
-                <button className="btn bg-[#23BE0A] grow text-white text-xl ">Click Here to Reach Us</button>
+                <button className="btn bg-[#23BE0A] grow text-white text-base lg:text-xl break-all">Click Here to Reach Us</button>
                 </div>
             </div>
             </div>

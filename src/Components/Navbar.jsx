@@ -14,9 +14,10 @@ const Navbar = () => {
                         <li><NavLink to="/ListedBooks">Listed Books</NavLink></li>
                         <li><NavLink to="/Reviews">Popular Reviews</NavLink></li>
                         <li><NavLink to="/PagesRead">Pages To Read</NavLink></li>
+                        <li><NavLink to="/Contact">Contact Us</NavLink></li>
                     </ul>
                     </div>
-                    <a className="text-3xl font-bold">Book Vibe</a>
+                    <a className="text-2xl lg:text-3xl font-bold">Book Vibe</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
@@ -26,10 +27,10 @@ const Navbar = () => {
                     <li><NavLink to="/Reviews">Popular Reviews</NavLink></li>
                     <li><NavLink to="/Contact">Contact Us</NavLink></li>
                     </ul>
-                </div>
-                <div className="navbar-end">
-                    <a className="btn bg-[#23BE0A] mr-4 text-white text-lg font-semibold">Sign In</a>
-                    <a className="btn bg-[#59C6D2] text-white text-lg font-semibold">Sign Up</a>
+                </div> 
+                <div className="navbar-end flex flex-col lg:flex-row gap-2 lg:gap-0">
+                    <a className="btn bg-[#23BE0A] lg:mr-4 text-white text-base lg:text-lg font-semibold">Sign In</a>
+                    <a className="btn bg-[#59C6D2] text-white text-base lg:text-lg font-semibold">Sign Up</a>
                 </div>
                 </div>
         </div>

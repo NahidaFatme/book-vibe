@@ -6,8 +6,8 @@ const Review = ({allreview}) => {
     }
     const {reviewer_name, book_name, review} = allreview;
     return (
-        <div className="bg-[#1313130D] p-6 rounded-2xl flex gap-4">
-            <div className="flex flex-col justify-center items-center">
+        <div className="bg-[#1313130D] p-6 rounded-2xl flex flex-col lg:flex-row gap-4">
+            <div className="flex flex-col justify-center items-start lg:items-center">
                 <MdRateReview className="w-12 h-12 text-red-500" />
             </div>
             <div className="grow flex flex-col gap-2">

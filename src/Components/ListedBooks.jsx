@@ -47,7 +47,7 @@ const ListedBooks = () => {
         
         <div>
             <div className='my-10 bg-[#1313130D] p-6 w-full  flex flex-col justify-center items-center rounded-2xl'>
-                <h1 className="text-4xl font-bold">Your Book List</h1>
+                <h1 className="text-2xl lg:text-4xl font-bold">Your Book List</h1>
             </div>
 
             <Tabs>
