@@ -4,6 +4,7 @@ Book Vibe is your go-to platform for discovering, tracking, and reviewing books.
 
 journey, connect with fellow book lovers, and visualize your reading progress all in one place.
 
+- [Book Vibe Live-Link: https://bookvibe-b9a8.netlify.app/](https://bookvibe-b9a8.netlify.app/)
 
 
 - See popular and free books from book list.
