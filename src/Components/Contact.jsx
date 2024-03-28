@@ -1,7 +1,7 @@
 
 const Contact = () => {
     return (
-        <div className="mt-12">
+        <div className="mt-20">
             <div className="card lg:card-side bg-base-100 shadow-xl">
             <figure><img className="opacity-4" src="https://i.ibb.co/LnTbbPn/shiromani-kant-Hqbkgga0r-NQ-unsplash.jpg" alt="Album"/></figure>
             <div className="card-body">
