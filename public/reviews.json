@@ -1,0 +1,64 @@
+[
+    {
+      "reviewer_name": "Alice",
+      "book_name": "The Midnight Library",
+      "review": "A captivating journey through alternate lives. Couldn't put it down!"
+    },
+    {
+      "reviewer_name": "Bob",
+      "book_name": "Educated",
+      "review": "A powerful memoir about resilience and the pursuit of knowledge."
+    },
+    {
+      "reviewer_name": "Charlie",
+      "book_name": "The Alchemist",
+      "review": "A timeless tale of following your dreams. Inspirational!"
+    },
+    {
+      "reviewer_name": "Diana",
+      "book_name": "Where the Crawdads Sing",
+      "review": "Beautifully written with a mesmerizing setting. A must-read!"
+    },
+    {
+      "reviewer_name": "Ethan",
+      "book_name": "Sapiens: A Brief History of Humankind",
+      "review": "Fascinating insights into the evolution of Homo sapiens."
+    },
+    {
+      "reviewer_name": "Fiona",
+      "book_name": "To Kill a Mockingbird",
+      "review": "A classic that tackles themes of racism and morality. Timeless!"
+    },
+    {
+      "reviewer_name": "George",
+      "book_name": "1984",
+      "review": "A chilling depiction of a dystopian future. Thought-provoking!"
+    },
+    {
+      "reviewer_name": "Hannah",
+      "book_name": "Pride and Prejudice",
+      "review": "A delightful romance with memorable characters. A classic!"
+    },
+    {
+      "reviewer_name": "Ian",
+      "book_name": "The Great Gatsby",
+      "review": "A tragic tale of love and the American Dream. Hauntingly beautiful!"
+    },
+    {
+      "reviewer_name": "Jessica",
+      "book_name": "The Fault in Our Stars",
+      "review": "Heart-wrenching and beautifully written. A tearjerker!"
+    },
+    {
+      "reviewer_name": "Kevin",
+      "book_name": "The Catcher in the Rye",
+      "review": "A rebellious coming-of-age story. Relatable and impactful!"
+    },
+    {
+      "reviewer_name": "Laura",
+      "book_name": "Brave New World",
+      "review": "A provocative look at a future society. Engrossing!"
+    }
+    
+  ]
+  

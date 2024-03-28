@@ -12,7 +12,8 @@ const Navbar = () => {
                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2  rounded-box w-52">
                         <li><NavLink to="/">Home</NavLink></li>
                         <li><NavLink to="/ListedBooks">Listed Books</NavLink></li>
-                        <li><NavLink to="PagesRead">Pages To Read</NavLink></li>
+                        <li><NavLink to="/Reviews">Popular Reviews</NavLink></li>
+                        <li><NavLink to="/PagesRead">Pages To Read</NavLink></li>
                     </ul>
                     </div>
                     <a className="text-3xl font-bold">Book Vibe</a>
@@ -22,6 +23,8 @@ const Navbar = () => {
                     <li><NavLink to="/">Home</NavLink></li>
                     <li><NavLink to="/ListedBooks">Listed Books</NavLink></li>
                     <li><NavLink to="/PagesRead">Pages To Read</NavLink></li>
+                    <li><NavLink to="/Reviews">Popular Reviews</NavLink></li>
+                    <li><NavLink to="/Contact">Contact Us</NavLink></li>
                     </ul>
                 </div>
                 <div className="navbar-end">
