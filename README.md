@@ -1,6 +1,6 @@
 # Book Vibe
 
-- [Book Vibe Live-Link Click Here !! or Click Link Below](https://bookvibe-b9a8.netlify.app/)
+- [Book Vibe Live-Link Click Here or Click Link Below](https://bookvibe-b9a8.netlify.app/)
 - [https://bookvibe-b9a8.netlify.app/](https://bookvibe-b9a8.netlify.app/)
 
 Book Vibe is your go-to platform for discovering, tracking, and reviewing books. Organize your reading 
